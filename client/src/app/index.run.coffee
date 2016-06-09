@@ -1,4 +1,0 @@
-angular.module 'portfolio'
-  .run ($log) ->
-    'ngInject'
-    $log.debug 'runBlock end'
